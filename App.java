@@ -23,5 +23,8 @@ public class App {
         System.out.println("Salario bruto: $" + salarioBruto);
         System.out.println("Salario neto: $" + salarioNeto);
         scanner.close();
+    }
+}
+
 
 
